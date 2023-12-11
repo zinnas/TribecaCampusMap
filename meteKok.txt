@@ -1,0 +1,7 @@
+Expertise
+Robotics, Physical Computing, Autonomous Agents, Machine Learning , Networking, Traffic Analysis, Stochastic Processes, Network Behavior under Different Application Environments. , Database, Data Mining, Pattern Recognition, Applications of Pattern Recognition to Genomics, Bioinformatics, Data Visualization Modeling, Rendering, 3D Image Representation., Computer Security, Secure Programming, Information assurance, Encryption Techniques
+
+Degrees
+B.S. SUNY at Stony Brook, Computer Science,1982
+M.S. Polytechnic Institute of New York, Computer Science,1984
+Ph.D. CUNY Graduate School, Computer Science,1996

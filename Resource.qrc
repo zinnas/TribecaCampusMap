@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/pics">
+        <file>campusMap.png</file>
+        <file>WelcomePage.png</file>
+        <file>cafeteria.png</file>
+        <file>mainBuilding.png</file>
+        <file>mainBuildingLibrary.png</file>
+        <file>murray.png</file>
+        <file>fiterman.png</file>
+        <file>csDep1.png</file>
+        <file>csDep2.png</file>
+        <file>Ching-Song-Wei.jpg</file>
+        <file>DrAzharPic.png</file>
+        <file>MeteKokPic.png</file>
+        <file>facultyBg.png</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>backgroundMusic.mp3</file>
+    </qresource>
+    <qresource prefix="/new/prefix1"/>
+</RCC>
